@@ -1,2 +1,2 @@
-# my_projects
-Javascript clocks
+# web_js_clocks
+Javascript clocks 12
